@@ -26,7 +26,8 @@ This project is a **Streamlit-based prototype** that uses **Azure Form Recognize
    cd ai-medical-report-analyzer
 
 ## 📸 Demo
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/23e5d527-12f9-4e72-8eb4-287af37b03ea" />
+<img width="1365" height="573" alt="image" src="https://github.com/user-attachments/assets/aed84f6a-e1d0-4c7f-a6bf-cbcdd8fc07c5" />
+
 
 ## 📌 Tech Stack
 - Python
