@@ -2,8 +2,10 @@
 
 This project is a **Streamlit-based prototype** that uses **Azure Form Recognizer** and **Azure OpenAI Service** to analyze medical reports, generate follow-up questions, and suggest possible conditions.  
 
-⚠️ **Disclaimer**: This tool is for **educational and testing purposes only**. It is **not** a medical diagnostic tool. **APIs** and **endpoint** are removed from **Azure** account so in .env file are **kept intentionally** but **should be removed** for security purpose. 
 
+---
+
+⚠️ **Disclaimer**: This tool is for **educational and testing purposes only**. It is **not** a medical diagnostic tool. **APIs** and **endpoint** are removed from **Azure** account so in .env file are **kept intentionally** but **should be removed** for security purpose. 
 
 ---
 
@@ -24,6 +26,7 @@ This project is a **Streamlit-based prototype** that uses **Azure Form Recognize
    cd ai-medical-report-analyzer
 
 ## 📸 Demo
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/23e5d527-12f9-4e72-8eb4-287af37b03ea" />
 
 ## 📌 Tech Stack
 - Python
